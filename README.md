@@ -15,3 +15,16 @@ Giờ thì làm việc với đống code :
 Thế nhé. Muốn được hướng dẫn chi tiết thì create issue đi để được giải đáp, nười nắm rồi.
 
 Cáo từ!
+
+#EN
+
+First, you make a bot from Discord Developer Portal, you can search it in GG. Then, installing node.js
+
+After makeing a bot, you work with code : 
+
+1. Open cmd.txt file, run it in terminal.
+2. Copy your bot's Token and Application Id, paste it in config.json file.
+3. Run command "node deploy_commands.js" to add slash command to you bot.
+4. Run command "node index.js" to run your bot.
+5. Invite your bot and enjoy!
+
